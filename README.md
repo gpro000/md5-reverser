@@ -19,7 +19,7 @@ to find the right one and it work very fast. </p>
 
 git clone https://github.com/cyb3rt3ch/saycheese
 
-cd md5_reverser
+cd md5-reverser
 
 apt-get install python3
 
@@ -30,7 +30,7 @@ python3 hash.py
 
 ```
 
-cd md5_reverser
+cd md5-reverser
 
 cp -r md5.php -t /var/www/html/
 
