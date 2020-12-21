@@ -1,4 +1,4 @@
-# Md5-Reverser
+# Md5 Reverser
 
 Reverse md5 form to normal form
 
@@ -15,9 +15,9 @@ to find the right one and it work very fast. </p>
 
 ```
 
-git clone https://github.com/gpro000/md5-reverser.git
+git clone https://github.com/cyb3rt3ch/saycheese
 
-cd md5-reverser
+cd md5_reverser
 
 apt-get install python3
 
@@ -28,7 +28,7 @@ python3 hash.py
 
 ```
 
-cd md5-reverser
+cd md5_reverser
 
 cp -r md5.php -t /var/www/html/
 
