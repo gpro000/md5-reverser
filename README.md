@@ -15,7 +15,7 @@ to find the right one and it work very fast. </p>
 
 ```
 
-git clone https://github.com/cyb3rt3ch/saycheese
+git clone https://github.com/gpro000/md5-reverser.git
 
 cd md5-reverser
 
